@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Un proyecto funciona mediante un proceso planificado de actividades coordinadas para lograr objetivos específicos en un plazo determinado, gestionando recursos y restricciones como presupuesto y tiempo. Inicia con un diagnóstico y diseño, pasa a la ejecución supervisada y termina con una evaluación, asegurando la consecución de resultados tangibles y el cumplimiento de los objetivos para resolver una necesidad o problem
 ## How to test
 
-Explain how to use your project
+Un proyecto funciona mediante un proceso planificado de actividades coordinadas para lograr objetivos específicos en un plazo determinado, gestionando recursos y restricciones como presupuesto y tiempo. Inicia con un diagnóstico y diseño, pasa a la ejecución supervisada y termina con una evaluación, asegurando la consecución de resultados tangibles y el cumplimiento de los objetivos para resolver una necesidad o problemA
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Un proyecto funciona mediante un proceso planificado de actividades coordinadas para lograr objetivos específicos en un plazo determinado, gestionando recursos y restricciones como presupuesto y tiempo. Inicia con un diagnóstico y diseño, pasa a la ejecución supervisada y termina con una evaluación, asegurando la consecución de resultados tangibles y el cumplimiento de los objetivos para resolver una necesidad o problem
